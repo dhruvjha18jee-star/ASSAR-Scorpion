@@ -1,4 +1,5 @@
 # ASSAR-Scorpion
+Linkedin Post :https://lnkd.in/p/gR73_TTQ
 This code is an upgrade to the previous version of the code for the Rover ASSAR
 A web dashboard + control-logic upgrade for the ASSAR rover (Autonomous
 Semantic Search and Action Rover). No electronics changed — same
